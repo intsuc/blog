@@ -24,23 +24,26 @@
 ```
 
 - Quotable
+    - Primitive types are not quotable.
 - Spliceable
+    - All types are spliceable?
 
 ```agda
 ↑A₀ = A₁
 
 ⇒ : ↑(A₀ →₀ B₀) →₁ (↑A₀ →₁ ↑B₀)
 ⇒ = λ₁ f₁ ↦ λ₁ a₁ ↦ '($f₁ $a₁)
+--                  ^^^^^^^^^^ quotation of B₀
+--
+-- A function of type (A₁ →₁ B₁) is derivable from a function of type (A₀ →₀ B₀) iff B is quotable.
 
 ⇐ : (↑A₀ →₁ ↑B₀) →₁ ↑(A₀ →₀ B₀)
 ⇐ = λ₁ f₁ ↦ '(λ₀ a₀ ↦ $(f₁ 'a₀))
---                         ^^^
+--                         ^^^ quotation of A₀
+--
+-- A function of type (A₀ →₀ B₀) is derivable from a function of type (A₁ →₁ B₁) iff A is quotable.
 
-id₀ : A₀ →₀ A₀
-id₀ = λ₀ x₀ ↦ x₀
-
-id₁ : A₁ →₁ A₁
-id₁ = ⇒ 'id₀
+-- Functions of type (A₀ →₀ B₀) and (A₁ →₁ B₁) are not derivable from each other if neither A nor B is quotable.
 ```
 
 ```agda
