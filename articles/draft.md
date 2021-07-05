@@ -40,7 +40,7 @@ id₀ : A₀ →₀ A₀
 id₀ = λ₀ x₀ ↦ x₀
 
 id₁ : A₁ →₁ A₁
-id₁ = ⇒id₀
+id₁ = ⇒ 'id₀
 ```
 
 ```agda
