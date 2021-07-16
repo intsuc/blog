@@ -1,5 +1,3 @@
-# blog
-
 - 2021-07-16 [Compiling Polymorphism with Type Passing](https://github.com/intsuc/blog/blob/main/articles/2021-07-16.md)
 - 2021-07-10 [Non-Ad Hoc Canonical Restriction](https://github.com/intsuc/blog/blob/main/articles/2021-07-10.md)
 - 2021-07-03 [Representation Polymorphism and Monomorphization](https://github.com/intsuc/blog/blob/main/articles/2021-07-03.md)
