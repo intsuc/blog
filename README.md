@@ -1,3 +1,4 @@
+- <samp>2021-12-21</samp> [Efficient Sequential Dispatch with Sibling Pointers](https://github.com/intsuc/blog/blob/main/posts/2021-12-21.md)
 - <samp>2021-11-28</samp> [Mutual Tail Recursion Modulo Pattern Matching](https://github.com/intsuc/blog/blob/main/posts/2021-11-28.md)
 - <samp>2021-11-12</samp> [Pass-by-Context: Zero Runtime Cost Argument Passing](https://github.com/intsuc/blog/blob/main/posts/2021-11-12.md)
 - <samp>2021-08-17</samp> [Tail Recursion Under Multiple Continuations](https://github.com/intsuc/blog/blob/main/posts/2021-08-17.md)
