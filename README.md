@@ -1,3 +1,4 @@
+- <samp>2022-01-20</samp> [Modular Defunctionalization Using Function Tags](https://github.com/intsuc/blog/blob/main/posts/2022-01-20.md)
 - <samp>2022-01-12</samp> [What is the Equivalent of Uniqueness/Linearity for Ordered Types?](https://github.com/intsuc/blog/blob/main/posts/2022-01-12.md)
 - <samp>2021-12-21</samp> [Sequential Dispatch with Sibling Pointers](https://github.com/intsuc/blog/blob/main/posts/2021-12-21.md)
 - <samp>2021-11-28</samp> [Mutual Tail Recursion Modulo Pattern Matching](https://github.com/intsuc/blog/blob/main/posts/2021-11-28.md)
