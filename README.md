@@ -1,3 +1,4 @@
+- <samp>2022-02-05</samp> [List-Mapped Trie: An NBT Data Structure Indexable in Ω(logN)-O(log²N) Time](https://github.com/intsuc/blog/blob/main/posts/2022-02-05.md)
 - <samp>2022-01-20</samp> [Modular Defunctionalization Using Function Tags](https://github.com/intsuc/blog/blob/main/posts/2022-01-20.md)
 - <samp>2022-01-12</samp> [What is the Equivalent of Uniqueness/Linearity for Ordered Types?](https://github.com/intsuc/blog/blob/main/posts/2022-01-12.md)
 - <samp>2021-12-21</samp> [Sequential Dispatch with Sibling Pointers](https://github.com/intsuc/blog/blob/main/posts/2021-12-21.md)
