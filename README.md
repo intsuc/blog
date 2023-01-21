@@ -1,6 +1,6 @@
 - <samp>2023-01-21</samp> [Visibility of Entities](https://github.com/intsuc/blog/blob/main/posts/2023-01-21.md)
 - <samp>2022-11-08</samp> [<samp>mch</samp>: A Highly-Compatible Lightweight Benchmark Harness for Minecraft](https://github.com/intsuc/blog/blob/main/posts/2022-11-08.md)
-- <samp>2022-04-03</samp> [Protecting the System from Players](https://github.com/intsuc/blog/blob/main/posts/2022-04-03.md)
+- <samp>2022-04-03</samp> [Protecting Your System from Players](https://github.com/intsuc/blog/blob/main/posts/2022-04-03.md)
 - <samp>2022-02-05</samp> [List-Mapped Trie: An NBT Data Structure Indexable in Ω(logN)-O(log²N) Time](https://github.com/intsuc/blog/blob/main/posts/2022-02-05.md)
 - <samp>2022-01-20</samp> [Modular Defunctionalization Using Function Tags](https://github.com/intsuc/blog/blob/main/posts/2022-01-20.md)
 - <samp>2022-01-12</samp> [What is the Equivalent of Uniqueness/Linearity for Ordered Types?](https://github.com/intsuc/blog/blob/main/posts/2022-01-12.md)
